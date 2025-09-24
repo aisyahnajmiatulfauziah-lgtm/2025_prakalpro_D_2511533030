@@ -1,5 +1,5 @@
 package pekan3;
-
+import java.util.Scanner;
 public class OperatorLogika {
 	 public static void main(String[] args) {
 	        boolean A1;
